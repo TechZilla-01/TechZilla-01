@@ -13,7 +13,7 @@
 
 
 <h2> 🤳 Connect with me:</h2> 
-whatsapp 0740956033
+whatsapp +254 740956033
 
 
 <!--
